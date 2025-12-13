@@ -36,3 +36,43 @@ Verify installation:
 ```bash
 python --version
 ```
+
+## Run the Application
+
+From the project directory:
+
+```bash
+python app.py
+```
+
+The White Board window will open immediately.
+
+---
+
+## Project Context (Important Note)
+
+My **primary stack is MERN (MongoDB, Express, React, Node.js)**.
+
+I do **not** consider Python one of my core skills; however, I have used it to build **basic functional applications** like this one. This project reflects my ability to:
+
+- Quickly learn and apply new technologies
+- Work with event-driven programming
+- Build usable applications outside my main stack
+
+I am fully open to **deepening my Python knowledge** if the role or project requires it.
+
+---
+
+## Purpose
+
+This project is included in my portfolio to showcase:
+
+- Programming fundamentals
+- GUI logic and state handling
+- Technical versatility beyond my main stack
+
+---
+
+## License
+
+This project is for educational and portfolio purposes.
