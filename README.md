@@ -5,7 +5,7 @@ It allows users to draw freely on a canvas, change colors, adjust brush size, an
 
 The main purpose of this project is to demonstrate **basic Python usage**, GUI development, and event-driven logic.
 
----<img width="1051" height="599" alt="whiteboard" src="https://github.com/user-attachments/assets/b080d382-e451-4467-ae8b-64b33d67cbb2" />
+<img width="1051" height="599" alt="whiteboard" src="https://github.com/user-attachments/assets/b080d382-e451-4467-ae8b-64b33d67cbb2" />
 
 
 ## Features
