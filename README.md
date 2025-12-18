@@ -40,11 +40,11 @@ python --version
 
 ### Clone the Repository
 
-First, clone this repository to your local machine:
+Clone this repository to your local machine:
 
 ```bash
-git clone [https://github.com/SALVADORPOETA/python-whiteboard-app.git](https://github.com/SALVADORPOETA/python-whiteboard-app.git)
-cd python-whiteboard-app
+git clone [https://github.com/SALVADORPOETA/White-board-sm.git](https://github.com/SALVADORPOETA/python-whiteboard-app.git)
+cd White-board-sm
 ```
 
 ## Run the Application
