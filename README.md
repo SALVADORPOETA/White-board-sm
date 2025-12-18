@@ -8,7 +8,7 @@ The main purpose of this project is to demonstrate **basic Python usage**, GUI d
 <img width="1051" height="599" alt="whiteboard" src="https://github.com/user-attachments/assets/b080d382-e451-4467-ae8b-64b33d67cbb2" />
 
 
-## Features
+## 🚀 Features
 
 - Freehand drawing using mouse events
 - Color palette selection
@@ -18,7 +18,7 @@ The main purpose of this project is to demonstrate **basic Python usage**, GUI d
 
 ---
 
-## Technologies Used
+## 🌐 Technologies Used
 
 - **Python 3**
 - **Tkinter** (GUI framework)
@@ -26,7 +26,7 @@ The main purpose of this project is to demonstrate **basic Python usage**, GUI d
 
 ---
 
-## How to Run the Project
+## 🔧 How to Run the Project
 
 ### Prerequisites
 
@@ -47,7 +47,7 @@ git clone https://github.com/SALVADORPOETA/White-board-sm.git
 cd White-board-sm
 ```
 
-## Run the Application
+## 🚀 Run the Application
 
 From the project directory:
 
@@ -59,7 +59,7 @@ The White Board window will open immediately.
 
 ---
 
-## Project Context (Important Note)
+## 💡 Project Context (Important Note)
 
 My **primary stack is MERN (MongoDB, Express, React, Node.js)**.
 
@@ -73,7 +73,7 @@ I am fully open to **deepening my Python knowledge** if the role or project requ
 
 ---
 
-## Purpose
+## 🎯 Purpose
 
 This project is included in my portfolio to showcase:
 
@@ -83,6 +83,15 @@ This project is included in my portfolio to showcase:
 
 ---
 
-## License
+## 👨🏽‍💻 Developer
+
+Implemented by **Salvador Martínez** Full-Stack Developer
+
+* [GitHub](https://github.com/SALVADORPOETA)
+* [LinkedIn](https://www.linkedin.com/in/salvador-martinez-sm/)
+
+---
+
+## 📜 License
 
 This project is for educational and portfolio purposes.
