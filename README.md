@@ -8,7 +8,7 @@ The main purpose of this project is to demonstrate **basic Python usage**, GUI d
 <img width="1051" height="599" alt="whiteboard" src="https://github.com/user-attachments/assets/b080d382-e451-4467-ae8b-64b33d67cbb2" />
 
 
-## 🚀 Features
+## ✨ Features
 
 - Freehand drawing using mouse events
 - Color palette selection
