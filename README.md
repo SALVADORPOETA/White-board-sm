@@ -38,6 +38,15 @@ Verify installation:
 python --version
 ```
 
+### Clone the Repository
+
+First, clone this repository to your local machine:
+
+```bash
+git clone [https://github.com/SALVADORPOETA/python-whiteboard-app.git](https://github.com/SALVADORPOETA/python-whiteboard-app.git)
+cd python-whiteboard-app
+```
+
 ## Run the Application
 
 From the project directory:
