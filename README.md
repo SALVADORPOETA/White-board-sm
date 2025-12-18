@@ -18,7 +18,7 @@ The main purpose of this project is to demonstrate **basic Python usage**, GUI d
 
 ---
 
-## 🌐 Technologies Used
+## 🛠️ Technologies Used
 
 - **Python 3**
 - **Tkinter** (GUI framework)
@@ -26,7 +26,7 @@ The main purpose of this project is to demonstrate **basic Python usage**, GUI d
 
 ---
 
-## 🔧 How to Run the Project
+## 🚀 How to Run the Project
 
 ### Prerequisites
 
@@ -47,7 +47,7 @@ git clone https://github.com/SALVADORPOETA/White-board-sm.git
 cd White-board-sm
 ```
 
-## 🚀 Run the Application
+### Run the Application
 
 From the project directory:
 
