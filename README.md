@@ -43,7 +43,7 @@ python --version
 Clone this repository to your local machine:
 
 ```bash
-git clone [https://github.com/SALVADORPOETA/White-board-sm.git](https://github.com/SALVADORPOETA/python-whiteboard-app.git)
+git clone https://github.com/SALVADORPOETA/White-board-sm.git
 cd White-board-sm
 ```
 
